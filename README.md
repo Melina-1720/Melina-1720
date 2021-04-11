@@ -163,12 +163,8 @@ long microsecondsToInches(long microseconds)
 
 # My Finished Project
 
-https://user-images.githubusercontent.com/79604213/114321328-95fd8c80-9ad7-11eb-869c-c54d625bfa6e.MOV
 
-
-
-
-
+https://www.youtube.com/watch?v=rn-BdLi8LR4
 
 
 
@@ -176,9 +172,7 @@ https://user-images.githubusercontent.com/79604213/114321328-95fd8c80-9ad7-11eb-
 https://www.youtube.com/watch?v=7fJ_bGO4FRU 
 
 
-
-# Credits
-1. My Lab Prof for helping with the code as it wasn't working 
-2. My Dad for helping setup the Arduino to the dart board
+# Credits1. My Lab Prof for helping with the code as it wasn't working 
+. My Dad for helping setup the Arduino to the dart board
 3. The video that gave the idea https://www.youtube.com/watch?v=7fJ_bGO4FRU 
 
