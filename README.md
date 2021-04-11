@@ -4,9 +4,9 @@
  
  
  
- # Motion Sensor LED light Dart Board 
+ # Motion Sensor LED light Strip Dart Board 
  
- The instrutions on making the project motion sensor LED light dart board for CS 207. This project is a step by step on making a motion sensor LED light dart board all the steps are provided down below.  
+ The instrutions on making this project the motion sensor LED light strip dart board for CS 207. This project is a step by step on making the light up dart board, all the steps are provided down below.  
 
 # The Connections
 1. ![Motion Sensor LED light_bb](https://user-images.githubusercontent.com/79604213/114316351-655e2880-9ac0-11eb-8b34-af85bee5b271.jpg)
