@@ -6,7 +6,7 @@
  
  # Motion Sensor LED light Dart Board 
  
- The instrutions on making the project motion sensor LED light dart board for CS 207. This project was simple to make as you can see all you need is an Arduino and a breadboard and have 9 cords handy. First you will have to hook up you Arduino to your computer and put the code in (the code will be at the bottom of the page) then setup you Arduino as seen below. 
+ The instrutions on making the project motion sensor LED light dart board for CS 207. This project is a step by step on making a motion sensor LED light dart board all the steps are provided down below.  
 
 # The Connections
 1. ![Motion Sensor LED light_bb](https://user-images.githubusercontent.com/79604213/114316351-655e2880-9ac0-11eb-8b34-af85bee5b271.jpg)
@@ -34,7 +34,7 @@
 # The Build Instrucions 
 
  1. To have all equipment ready
- 2. Get your Arduino and Breadboard connected to your computer.
+ 2. Get your Arduino and Breadboard connected to your computer make sure to have <Adafruit_NeoPixel.h> located in the Sketch and Include Library.
  3. Connect the 5V and Ground cords from the arduino to the breadboard.
  4. Connect the Motion Sensor cords (the Motion Sensor are labelled) from Ground pin to ground on the bread board, connect the Echo pin to pin 8 on the Arduino, connect the Trig pin to pin 7 on the Arduino, and Vcc pin connect it to the 5V on the bread board.
  5. Connect the LED Strip Light ( the LED Strip Light is labelled) from the DO pin connect it to Ground on the bread board, the DI pin connect it to pin 2 on the Arduino, and the Vcc pin connect it to 5V on the bread board.
@@ -66,7 +66,7 @@
 
 There was a few bugs to making this project: 
 
-1. The code was diffault as the person I was trying to follow had a bad code so I got for help setting it up.
+1. The code was diffault as the person that I was trying to follow had a bad code as they never gave good examples so I had to get help setting it up.
 2. The equipment the LED strip light and motion sensor I never used those two equipment before so I got confused at the beginning.
 3. The motion sensor can only go so far so hitting the dart board you would have to shot close to the motion sensor to activate it.
 4. The motion sensor not being able to shut off while an object is infront of itfor a long time.
@@ -161,6 +161,24 @@ long microsecondsToInches(long microseconds)
 
 }
 
+# My Finished Project
+
+https://user-images.githubusercontent.com/79604213/114321328-95fd8c80-9ad7-11eb-869c-c54d625bfa6e.MOV
 
 
+
+
+
+
+
+
+# Sources I used for this project
+https://www.youtube.com/watch?v=7fJ_bGO4FRU 
+
+
+
+# Credits
+1. My Lab Prof for helping with the code as it wasn't working 
+2. My Dad for helping setup the Arduino to the dart board
+3. The video that gave the idea https://www.youtube.com/watch?v=7fJ_bGO4FRU 
 
