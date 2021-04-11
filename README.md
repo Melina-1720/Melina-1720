@@ -172,7 +172,8 @@ https://www.youtube.com/watch?v=rn-BdLi8LR4
 https://www.youtube.com/watch?v=7fJ_bGO4FRU 
 
 
-# Credits1. My Lab Prof for helping with the code as it wasn't working 
-. My Dad for helping setup the Arduino to the dart board
+# Credits
+1. My Lab Prof for helping with the code as it wasn't working 
+2. My Dad for helping setup the Arduino to the dart board
 3. The video that gave the idea https://www.youtube.com/watch?v=7fJ_bGO4FRU 
 
