@@ -1,4 +1,10 @@
- Motion Sensor LED light Dart Board 
+ 
+  # The Build Instrucions
+ 
+ 
+ 
+ 
+ # Motion Sensor LED light Dart Board 
  
  The instrutions on making the project motion sensor LED light dart board for CS 207. This project was simple to make as you can see all you need is an Arduino and a breadboard and have 9 cords handy. First you will have to hook up you Arduino to your computer and put the code in (the code will be at the bottom of the page) then setup you Arduino as seen below. 
 
@@ -22,9 +28,9 @@
 9. 1 screw
 
 
-The Build Instrucions 
+# The Build Instrucions 
 
-The Dart board 
+Step 1. To have your 
 
 
 
@@ -39,7 +45,7 @@ The Dart board
 
 
 
-Bugs List
+# Bugs List
 
 There was a few bugs to making this project: 
 
