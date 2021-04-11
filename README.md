@@ -33,19 +33,19 @@
 
 # The Build Instrucions 
 
-Step 1. To have all equipment ready
-Step 2. Get your Arduino and Breadboard connected to your computer.
-Step 3. Connect the 5V and Ground cords from the arduino to the breadboard.
-Step 4. Connect the Motion Sensor cords (the Motion Sensor are labelled) from Ground pin to ground on the bread board, connect the Echo pin to pin 8 on the Arduino, connect the Trig pin to pin 7 on the Arduino, and Vcc pin connect it to the 5V on the bread board.
-Step 5. Connect the LED Strip Light ( the LED Strip Light is labelled) from the DO pin connect it to Ground on the bread board, the DI pin connect it to pin 2 on the Arduino, and the Vcc pin connect it to 5V on the bread board.
-Step 6. Put the code the Arduino ( the code is at # code).
-Step 7. Upload it to your Arduino.
-Step 8. Plug in the battery pack to your Arduino.
-Step 9. Assemble the Arduino to dart board.
-Step 10.  Make a platform or something to hold your Arduino up.
-Step 11. Duck tape the lights around the dart board.
-Step 12. Screw the Motion Sensor on the dart board.
-Step 13. Try it out.
+ 1. To have all equipment ready
+ 2. Get your Arduino and Breadboard connected to your computer.
+ 3. Connect the 5V and Ground cords from the arduino to the breadboard.
+ 4. Connect the Motion Sensor cords (the Motion Sensor are labelled) from Ground pin to ground on the bread board, connect the Echo pin to pin 8 on the Arduino, connect the Trig pin to pin 7 on the Arduino, and Vcc pin connect it to the 5V on the bread board.
+ 5. Connect the LED Strip Light ( the LED Strip Light is labelled) from the DO pin connect it to Ground on the bread board, the DI pin connect it to pin 2 on the Arduino, and the Vcc pin connect it to 5V on the bread board.
+ 6. Put the code the Arduino ( the code is at # code).
+7. Upload it to your Arduino.
+ 8. Plug in the battery pack to your Arduino.
+ 9. Assemble the Arduino to dart board.
+ 10.  Make a platform or something to hold your Arduino up.
+ 11. Duck tape the lights around the dart board.
+ 12. Screw the Motion Sensor on the dart board.
+ 13. Try it out.
 
 
 
