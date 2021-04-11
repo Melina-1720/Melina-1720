@@ -6,7 +6,7 @@
 ![Motion Sensor LED light_bb](https://user-images.githubusercontent.com/79604213/114316351-655e2880-9ac0-11eb-8b34-af85bee5b271.jpg)
 
 
-Materials 
+Materials that you will need:
 
 1. Arduino
 2. BreadBoard
@@ -15,3 +15,5 @@ Materials
 5. Dart Board
 6. Battery Pack (to be able to move around easier)
 7. 9 cords
+
+![Motion Sensor LED light_schem](https://user-images.githubusercontent.com/79604213/114316425-c554cf00-9ac0-11eb-97f9-64324b35567e.jpg)
