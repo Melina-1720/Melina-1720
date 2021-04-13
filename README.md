@@ -61,6 +61,9 @@
 2. ![IMG_8078](https://user-images.githubusercontent.com/79604213/114316664-b15d9d00-9ac1-11eb-8040-4467c226a3d3.JPG)
 
 
+3. https://www.youtube.com/watch?v=rn-BdLi8LR4
+
+
 
 
 
@@ -164,10 +167,7 @@ long microsecondsToInches(long microseconds)
 
 }
 
-# My Finished Project
 
-
-https://www.youtube.com/watch?v=rn-BdLi8LR4
 
 
 
