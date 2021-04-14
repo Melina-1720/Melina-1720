@@ -1,16 +1,16 @@
  # Table of Contents
  
-1. [The Connections](#The Connections)
+1. [The Connections](#TheConnections)
  
- 2.[ Materials that you will need](# Materials that you will need:)
+ 2.[ Materials that you will need](#Materialsthatyouwillneed:)
 
-3. [The Build Instrucions](# The Build Instrucions)
+3. [The Build Instrucions](#The Build Instrucions)
  
-5. [The Finished Project](# The Finished Project)
+5. [The Finished Project](#The Finished Project)
 
-7. [Bugs List](# Bugs List)
+7. [Bugs List](#Bugs List)
 
- 6.[Plans Features](# Plans Features)
+ 6.[Plans Features](#Plans Features)
 
  8.[The Code](# The Code)
 
