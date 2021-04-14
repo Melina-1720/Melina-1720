@@ -6,7 +6,7 @@
 
 3. [Build Instrucions](#BuildInstrucions)
  
-4. [The Finished Project](#TheFinishedProject)
+4. [Finished Project](#FinishedProject)
 
 5. [Bugs](#Bugs)
 
@@ -68,7 +68,7 @@
 
 
 
-# The Finished Project
+# Finished Project
 1. ![IMG_8079](https://user-images.githubusercontent.com/79604213/114316661-ae62ac80-9ac1-11eb-9325-913dd6ee87a6.JPG)
 
 
