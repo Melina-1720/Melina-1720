@@ -10,11 +10,11 @@
 
 5. [Bugs](#Bugs)
 
- 6. [Plans Features](#PlansFeatures)
+ 6. [PlansFeatures](#PlansFeatures)
 
- 7. [The Code](#TheCode)
+ 7. [Code](#Code)
 
- 8. [Sources I used for this project](#SourcesIusedforthisproject)
+ 8. [Sources](#Sources)
  
  9. [Credits](#Credits)
 
@@ -95,7 +95,7 @@ There was a few bugs to making this project:
 The things that would have made it better would have been adding three more motion sensors to be able to reach the other sides of the dart board and not just get the one side of the dart board.
 
 
-# The Code
+# Code
 
 //written by Melina Young
 
@@ -186,7 +186,7 @@ This project can be used to have fun with friends and add a bit of light to the 
 
 
 
-# Sources I used for this project
+# Sources
 https://www.youtube.com/watch?v=7fJ_bGO4FRU 
 
 
