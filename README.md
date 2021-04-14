@@ -48,7 +48,7 @@
 10. A dart 
 
 
-# Build Instrucions 
+# Instrucions 
 
  1. To have all equipment ready
  2. Get your Arduino and Breadboard connected to your computer make sure to have <Adafruit_NeoPixel.h> located in the Sketch and Include Library.
