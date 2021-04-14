@@ -2,7 +2,7 @@
  
 1. [The Connections](#TheConnections)
  
- 2.[ Materials that you will need](#Materialsthatyouwillneed)
+ 2.[Materials that you will need](#Materialsthatyouwillneed)
 
 3. [The Build Instrucions](#TheBuildInstrucions)
  
