@@ -4,7 +4,7 @@
  
  2. [Materials](#Materials)
 
-3. [The Build Instrucions](#TheBuildInstrucions)
+3. [Build Instrucions](#BuildInstrucions)
  
 4. [The Finished Project](#TheFinishedProject)
 
@@ -48,7 +48,7 @@
 10. A dart 
 
 
-# The Build Instrucions 
+# Build Instrucions 
 
  1. To have all equipment ready
  2. Get your Arduino and Breadboard connected to your computer make sure to have <Adafruit_NeoPixel.h> located in the Sketch and Include Library.
