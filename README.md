@@ -8,7 +8,7 @@
  
 4. [The Finished Project](#TheFinishedProject)
 
-5. [Bugs List](#Bugs List)
+5. [Bugs List](#BugsList)
 
  6. [Plans Features](#PlansFeatures)
 
