@@ -1,15 +1,24 @@
  # Table of Contents
  
 1. [The Connections](#The Connections)
+ 
  2.[ Materials that you will need](# Materials that you will need:)
+
 3. [The Build Instrucions](# The Build Instrucions)
-4. [The Finished Project](# The Finished Project)
-5. [Bugs List](# Bugs List)
+ 
+5. [The Finished Project](# The Finished Project)
+
+7. [Bugs List](# Bugs List)
+
  6.[Plans Features](# Plans Features)
- 7.[The Code](# The Code)
- 8.[Sources I used for this project](#Sources I used for this project)
- 9.[Credits](#Credits)
- 10. [Usage](#Usage) 
+
+ 8.[The Code](# The Code)
+
+ 10.[Sources I used for this project](#Sources I used for this project)
+ 
+ 12.[Credits](#Credits)
+
+ 14. [Usage](#Usage) 
  
  
   # Motion Sensor LED light Strip Dart Board 
