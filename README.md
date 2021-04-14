@@ -2,7 +2,7 @@
  
 1. [Connections](#Connections)
  
- 2. [Materials that you will need](#Materialsthatyouwillneed)
+ 2. [Materials](#Materials)
 
 3. [The Build Instrucions](#TheBuildInstrucions)
  
@@ -34,7 +34,7 @@
 
 
 
-# Materials that you will need:
+# Materials
 
 1. Arduino
 2. BreadBoard
