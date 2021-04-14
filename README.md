@@ -4,7 +4,7 @@
  
  2. [Materials](#Materials)
 
-3. [Build Instrucions](#BuildInstrucions)
+3. [Instrucions](#Instrucions)
  
 4. [Project](#Project)
 
