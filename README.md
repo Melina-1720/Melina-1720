@@ -8,7 +8,7 @@
  
 4. [The Finished Project](#TheFinishedProject)
 
-5. [Bugs List](#BugsList)
+5. [Bugs](#Bugs)
 
  6. [Plans Features](#PlansFeatures)
 
@@ -82,7 +82,7 @@
 
 
 
-# Bugs List
+# Bugs
 
 There was a few bugs to making this project: 
 
