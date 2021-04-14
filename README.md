@@ -10,7 +10,7 @@
 
 5. [Bugs](#Bugs)
 
- 6. [Plans](#Plans)
+ 6. [Plans](#PlansFeatures)
 
  7. [Code](#Code)
 
