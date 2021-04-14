@@ -1,7 +1,8 @@
  # Table of Contents
  
+ [The Connections]
  
- 
+ [Usage](#Usage) 
  
  
   
@@ -169,7 +170,8 @@ long microsecondsToInches(long microseconds)
 
 }
 
-
+# Usage 
+This project can be used to have fun with friends and add a bit of light to the activity.
 
 
 
