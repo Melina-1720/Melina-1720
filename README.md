@@ -1,6 +1,6 @@
  # Table of Contents
  
-1. [The Connections](#TheConnections)
+1. [Connections](#TheConnections)
  
  2.[Materials that you will need](#Materialsthatyouwillneed)
 
