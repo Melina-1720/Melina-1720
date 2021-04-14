@@ -2,19 +2,19 @@
  
 1. [The Connections](#TheConnections)
  
- 2.[ Materials that you will need](#Materialsthatyouwillneed:)
+ 2.[ Materials that you will need](#Materialsthatyouwillneed)
 
-3. [The Build Instrucions](#The Build Instrucions)
+3. [The Build Instrucions](#TheBuildInstrucions)
  
-5. [The Finished Project](#The Finished Project)
+5. [The Finished Project](#TheFinishedProject)
 
-7. [Bugs List](#Bugs List)
+7. [Bugs List](#BugsList)
 
- 6.[Plans Features](#Plans Features)
+ 6.[Plans Features](#PlansFeatures)
 
- 8.[The Code](# The Code)
+ 8.[The Code](#TheCode)
 
- 10.[Sources I used for this project](#Sources I used for this project)
+ 10.[Sources I used for this project](#SourcesIusedforthisproject)
  
  12.[Credits](#Credits)
 
