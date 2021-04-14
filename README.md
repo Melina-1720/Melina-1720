@@ -6,7 +6,7 @@
 
 3. [Build Instrucions](#BuildInstrucions)
  
-4. [Finished Project](#FinishedProject)
+4. [FinishedProject](#FinishedProject)
 
 5. [Bugs](#Bugs)
 
