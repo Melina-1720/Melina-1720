@@ -10,7 +10,7 @@
 
 5. [Bugs](#Bugs)
 
- 6. [Plans](#PlansFeatures)
+ 6. [Plans](#Plans)
 
  7. [Code](#Code)
 
@@ -91,7 +91,7 @@ There was a few bugs to making this project:
 3. The motion sensor can only go so far so hitting the dart board you would have to shot close to the motion sensor to activate it.
 4. The motion sensor not being able to shut off while an object is infront of itfor a long time.
 
-# Plans Features
+# Plans
 The things that would have made it better would have been adding three more motion sensors to be able to reach the other sides of the dart board and not just get the one side of the dart board.
 
 
